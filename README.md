@@ -2,3 +2,4 @@
 Introdução ao JavaScript
 
 ECMA - Estudo da Versão Padronizada do JavaScript
+Estudos em JavaScrit
